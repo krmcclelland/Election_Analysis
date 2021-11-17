@@ -83,7 +83,7 @@ with open(file_to_save, "w") as txt_file:
         f"--------------------------------------\n\n"
         f"County Votes:\n")
 
-    print(election_results, end=" ")
+    print(election_results, end="")
 
     txt_file.write(election_results)
 
@@ -100,7 +100,7 @@ with open(file_to_save, "w") as txt_file:
             f"{county_name}: {c_vote_percentage:.1f}% ({c_votes: ,})\n")
 
          # 6d: Print the county results to the terminal.
-        print(county_results, end= " ")
+        print(county_results, end= "")
 
          # 6e: Save the county votes to a text file.
         txt_file.write(county_results)
