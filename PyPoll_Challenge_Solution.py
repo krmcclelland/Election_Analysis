@@ -1,3 +1,6 @@
+#PyPoll_Challenge_Solution.py
+# Code: UTF-8
+
 # Add dependencies.
 import csv
 import os
