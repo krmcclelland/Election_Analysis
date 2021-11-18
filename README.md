@@ -35,3 +35,6 @@ Diana DeGette | 272,892 | 73.8% |
 
 # Conclusion
 There is a statement to the election commission on how this script can be used for any election with two examples given.
+![PyPoll_Challenge_Solution_cmd-line_screen_capture](https://user-images.githubusercontent.com/17502725/142344746-38b92dce-c4ad-470a-bae4-f7aadcb1b123.PNG)
+
+
